@@ -1,1 +1,1 @@
-# TextEditor
+# TextEditorを作るぞ
