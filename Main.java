@@ -26,7 +26,7 @@ class MyWindow extends Frame implements ActionListener {
         addWindowListener(new WinListener() );
     }
     public void actionPerformed(ActionEvent e) {
-        ta.setText("メニュー項目が選ばれました")
+        ta.setText("メニュー項目が選ばれました");
     }
 }
 class WinListener extends WindowAdapter {
